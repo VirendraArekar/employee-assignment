@@ -1,4 +1,4 @@
-# employee-assignment
+# Employee CRUD -assignment
 
 # Frontend
 React Js, axios, custom hook, helpers, toast
